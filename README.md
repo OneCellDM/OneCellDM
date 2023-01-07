@@ -4,17 +4,18 @@
 
 <div align="Center">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" width="60" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" width="60" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" width="60" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" width="60" alt="trello logo"  />
 </div>
 
 <h2 align="Center">SOCIAL</h2>
 
 <div align="Center">
- <a href="https://vk.com/onecelldm">  <img src="https://github.com/OneCellDM/OneCellDM/blob/main/VK_Compact_Logo.png" width="52" height="40" alt="vk-logo"  /></a> 
+ <a href="https://vk.com/onecelldm">  <img src="https://github.com/OneCellDM/OneCellDM/blob/main/vk.png" width="60" height="60" alt="vk-logo"  /></a> 
+  <a href="https://t.me/onecelldm">  <img src="https://github.com/OneCellDM/OneCellDM/blob/main/TG.png" width="75" height="60" alt="TG-logo"  /></a> 
 </div>
 
 <br clear="both">
