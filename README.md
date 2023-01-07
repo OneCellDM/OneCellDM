@@ -16,6 +16,7 @@
 <div align="Center">
  <a href="https://vk.com/onecelldm">  <img src="https://github.com/OneCellDM/OneCellDM/blob/main/vk.png" width="60" height="60" alt="vk-logo"  /></a> 
   <a href="https://t.me/onecelldm">  <img src="https://github.com/OneCellDM/OneCellDM/blob/main/TG.png" width="75" height="60" alt="TG-logo"  /></a> 
+   <a href="mailto:pokesm.pe@gmail.com">  <img src="https://github.com/OneCellDM/OneCellDM/blob/main/gmail.webp" width="60" height="65" alt="gmail"  /></a> 
 </div>
 
 <br clear="both">
