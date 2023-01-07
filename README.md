@@ -2,7 +2,8 @@
 
 ###
 
-<div align="left">
+<div align="Center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
@@ -10,19 +11,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
 </div>
 
+<h2 align="Center">SOCIAL</h2>
+
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=One.One&"  />
+<div align="Center">
+ <a href="https://vk.com/onecelldm"> <img src="https://github.com/VKCOM/icons/edit/master/src/svg/32/logo_vk_color_32.svg" width="52" height="40" alt="vk-logo"  /> 
 </div>
 
-###
-
 <br clear="both">
-
+<h2 align="center">STAT</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=One" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=One" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=OneCellDM&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true"/>
+ <img src="https://camo.githubusercontent.com/7c596d31db5420d31be2af245f1047f86c554efbcc0eb25c0e89b2cb0d069062/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4f6e6543656c6c444d267468656d653d67727576626f7826686964655f626f726465723d66616c7365"/>
+  <div align="Center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneCellDM&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  </div>
 </div>
 
 ###
@@ -31,12 +35,6 @@
 
 ###
 
-<h3 align="left">SOCIAL</h3>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
 
 ###
