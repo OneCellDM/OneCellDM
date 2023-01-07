@@ -12,11 +12,12 @@
 </div>
 
 <h2 align="Center">SOCIAL</h2>
-
+ <img src="https://github.com/OneCellDM/OneCellDM/blob/main/VK_Compact_Logo.png" width="52" height="40" alt="vk-logo"  />
 ###
 
 <div align="Center">
- <a href="https://vk.com/onecelldm"> <img src="https://github.com/VKCOM/icons/edit/master/src/svg/32/logo_vk_color_32.svg" width="52" height="40" alt="vk-logo"  /> 
+ <a href="https://vk.com/onecelldm"> 
+ <img src="https://github.com/OneCellDM/OneCellDM/blob/main/VK_Compact_Logo.png" width="52" height="40" alt="vk-logo"  /></a> 
 </div>
 
 <br clear="both">
