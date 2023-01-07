@@ -28,11 +28,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/One/One/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-###
